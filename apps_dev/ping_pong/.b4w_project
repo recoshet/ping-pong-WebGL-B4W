@@ -1,0 +1,27 @@
+[info]
+author = recoshet
+name = ping_pong
+title = 
+icon = 
+
+[paths]
+assets_dirs = deploy/assets/ping_pong;
+blend_dirs = blender/ping_pong;
+blender_exec = blender
+build_dir = deploy/apps/ping_pong
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = external
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_prefix = 
+override = 
+
